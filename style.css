@@ -1,0 +1,79 @@
+body {
+    background-color: #141123;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #000000;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #f8cded;
+  }
+  
+  form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    flex-grow: 1;
+    padding: 15px;
+    border-radius: 15px 0 0 15px;
+    border: none;
+  }
+  
+  button[type="submit"] {
+    border-radius: 0 15px 15px 0;
+    border: none;
+    background-color: #c39ce9;
+    color: #141123;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+  }
+  
+  #task-list li {
+    color: #f8cded;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  li span {
+    margin-inline-end: 10px;
+  }
+  
+  li button {
+    margin-inline-end: 10px;
+    padding: 10px 15px;
+    background-color: #c39ce9;
+    color: #141123;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
