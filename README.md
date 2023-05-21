@@ -7,4 +7,4 @@ Com a interface fácil de usar, você pode adicionar novas tarefas com apenas al
 Nossa lista de tarefas apresenta um design moderno e responsivo, garantindo que você possa acessá-la em qualquer dispositivo, seja no seu computador, tablet ou smartphone. Personalize sua lista com estilos de texto, cores de destaque e até mesmo ícones exclusivos para cada tarefa.
 
 Não deixe as tarefas se acumularem e experimente agora mesmo a lista de tarefas. 
-## [Para acessar o proojeto clique aqui! ✨](https://emanuellydev.github.io/todolist.github.io/)
+## [Para acessar o projeto clique aqui! ✨](https://emanuellydev.github.io/todolist.github.io/)
